@@ -1,0 +1,31 @@
+.re{
+  text-decoration:none;
+  display:block;
+  color: white;
+}
+.links a:hover{
+  text-decoration:none;
+  display:block;
+  color:black;
+}
+.resources{
+border-radius:20px;
+border: solid  #DAA520 3px;
+margin-left: 2.3%;
+margin-right: 2.3%;
+margin-bottom:1cm;
+margin-top:none;
+padding: 1cm;
+background-color:  #8B0000;
+color:  white;
+}
+.playlist{
+  border-radius: 20px;
+  border: solid #DAA520 3px;
+  margin-left: 2.3%;
+  margin-right:2.3;
+  margin-bottom:1cm;
+  padding: 1cm;
+  background-color:#8B0000;
+  color: white;
+}
